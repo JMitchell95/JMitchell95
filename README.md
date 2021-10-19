@@ -1,7 +1,23 @@
-## Welcome to my GitHub
+# Welcome to my GitHub
 
-
-Hello my name is Jordan Mitchell and I am a certified Full stack Web Developer who recently recieved education from Georgia Tech's Coding Boot Camp. This repositiory contains most of my projects and work from that program. As of now I am currently seeking employment, so if any of these projects stand out, please feel free to reach out to me via email with any offers. 
-
+My name is Jordan Mitchell. As of this past Spring, I am a certified Full Stack Developer. This repository contains my completed projects and work from the Georgia Tech Boot Camp Program. Posted below, you will find some quick demos of these projects. Please feel free to reach out to my email below with any offers, as I am currently seeking employment.
+Thank you in advance for your time and consideration!
 
 ### Email: JordanMitchellProfessional@gmail.com
+
+
+# Demos
+### React Directory 
+![Imgur Image](https://i.imgur.com/YPkfra2.gif)
+
+### Twitch Spotlight 
+ ![Alt Image](https://github.com/JMitchell95/Twitch-Spotlight-Working-Name/raw/main/client/public/spotlightdemopic.png)
+ 
+ ### MovNex
+ ![Alt Image](https://github.com/Kyle7286/MovNex/raw/main/assets/readme/ss1.png)
+ 
+ ### Quisa 
+ ![Alt Image](https://github.com/wildnei/quisa-project/raw/main/img/quisaPage.gif)
+ 
+ ### Weather Dashboard 
+ ![Imgur Image](https://i.imgur.com/MZ36Tlu.gif)
